@@ -4,7 +4,8 @@
   "type": "library",
   "homepage": "https://github.com/jgauthi/poc_templating_smarty",
   "require": {
-    "php": ">=5.6"
+    "php": ">=5.6",
+    "smarty/smarty": "3.*"
   },
   "autoload": {
     "classmap": [ "src/" ]

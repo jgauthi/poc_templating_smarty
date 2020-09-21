@@ -22,6 +22,13 @@ Or you can add this poc like a dependency, in this case edit your [composer.json
 }
 ```
 
+## Usage
+You can test with php internal server and go to url http://localhost:8000 :
+
+```shell script
+php -S localhost:8000 -t public
+```
+
 
 ## Documentation
 You can look at [folder public](public).
